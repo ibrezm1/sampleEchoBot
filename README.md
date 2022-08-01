@@ -1,17 +1,17 @@
 ﻿# Samplebot1
 
-[Setup Steps](https://docs.microsoft.com/en-us/azure/bot-service/bot-service-quickstart-create-bot?view=azure-bot-service-4.0&tabs=csharp%2Cvscode)
-[Prereq DotnetCore3.1](https://versionsof.net/core/3.1/3.1.0/)
-[Bot Emulator](https://github.com/Microsoft/BotFramework-Emulator/releases/tag/v4.14.1)
+* [Setup Steps](https://docs.microsoft.com/en-us/azure/bot-service/bot-service-quickstart-create-bot?view=azure-bot-service-4.0&tabs=csharp%2Cvscode)
+* [Prereq DotnetCore3.1](https://versionsof.net/core/3.1/3.1.0/)
+* [Bot Emulator](https://github.com/Microsoft/BotFramework-Emulator/releases/tag/v4.14.1)
 
 
 Notes :
-dotnet --list-runtimes
-dotnet --list-sdks
-dotnet run
-ngrok http 3978 --host-header=localhost:3978  
-https://f73e-122-169-66-84.in.ngrok.io
-https://www.c-sharpcorner.com/article/develop-bot-for-ms-teams-with-bot-builder-v4-sdk/
+* dotnet --list-runtimes
+* dotnet --list-sdks
+* dotnet run
+* ngrok http 3978 --host-header=localhost:3978  
+* https://f73e-122-169-66-84.in.ngrok.io
+* https://www.c-sharpcorner.com/article/develop-bot-for-ms-teams-with-bot-builder-v4-sdk/
 
 
 Bot Framework v4 echo bot sample.
